@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Mateus Ryan, Full Stack developer and Physicist.
+#### I am Mateus Ryan, Web developer and Physicist.
 
 I have a degree in physics and my study focused on topological defects in condensed matter physics. I currently work as a freelance web developer and intend to progress in my career as a developer or software engineer.
 
