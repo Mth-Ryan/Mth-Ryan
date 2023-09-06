@@ -5,7 +5,7 @@
 I have a degree in physics and my study focused on topological defects in condensed matter physics. I currently work as a freelance web developer and intend to progress in my career as a developer or software engineer.
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=go,rust,cs,typescript,javascript,haskell,nodejs,dotnet,nextjs,svelte,tailwind,redis,postgres,nginx,docker,linux,aws,neovim,latex&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=cs,go,rust,typescript,javascript,haskell,nodejs,dotnet,powershell,nextjs,svelte,tailwind,redis,postgres,nginx,docker,linux,aws,neovim,latex&theme=dark)
 
 ## Currently learning:
 
