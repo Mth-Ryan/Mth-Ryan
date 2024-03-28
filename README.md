@@ -14,5 +14,5 @@ I have a major in physics and my study focused on topological defects in condens
 * 🗃️ Postgres stored procedures and PostgRest
 
 ## Contact me:
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ryan-aa63b3210)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mth-ryan)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mthryan@protonmail.com)
